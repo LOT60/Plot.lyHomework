@@ -1,7 +1,7 @@
 # Plot.ly Homework - Belly Button Biodiversity
 ![bacteria](https://user-images.githubusercontent.com/74845016/115813316-912eb780-a3b8-11eb-8d4f-7618eb4660a9.jpg)
 
-*  Step 1: Plotly 
+#  Step 1: Plotly 
 
 1. Use the D3 library to read in samples.json.
 
@@ -36,7 +36,7 @@
 
 *  Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
 
-* Output
+#  Output
 
 ![hw02](https://user-images.githubusercontent.com/74845016/115813713-48c3c980-a3b9-11eb-94c7-c966788a236c.png)
 
